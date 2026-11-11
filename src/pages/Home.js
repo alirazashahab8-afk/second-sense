@@ -723,7 +723,7 @@ export default function Home() {
                 className="text-2xl font-bold mb-8 text-white"
                 style={{ fontFamily: 'Outfit, sans-serif' }}
               >
-                Project Members
+                Authors
               </h3>
 
               <ul className="space-y-4">
