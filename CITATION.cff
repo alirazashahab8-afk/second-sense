@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Second Sense: comparative evaluation tool for new, repurposed and recycled lithium-ion batteries"
+type: software
+version: "1.0.0"
+date-released: "2026-11-11"
+license: MIT
+url: "https://secondsense.vercel.app/"
+authors:
+  - family-names: Raza
+    given-names: Ali
+  - family-names: Faheem
+    given-names: Mohammad
+  - family-names: Sattar
+    given-names: Umaiza
+  - family-names: Alim
+    given-names: Md. Abdul
+  - family-names: Chowdhury
+    given-names: Md. Raeen Hassan
+  - family-names: Chagnes
+    given-names: Alexandre
+  - family-names: Stankovic
+    given-names: Nicolas
+  - family-names: Nominé
+    given-names: Alexandre

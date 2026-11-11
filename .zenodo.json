@@ -1,0 +1,48 @@
+{
+  "title": "Second Sense: comparative evaluation tool for new, repurposed and recycled lithium-ion batteries",
+  "upload_type": "software",
+  "description": "Web tool and model code comparing new (virgin), recycled-content and repurposed lithium-ion batteries on cost, carbon emissions and usable energy lifetime. Accompanies a manuscript under review in the Journal of Energy Storage. Includes verification script and CSV tables of the manuscript results.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Raza, Ali"
+    },
+    {
+      "name": "Faheem, Mohammad"
+    },
+    {
+      "name": "Sattar, Umaiza"
+    },
+    {
+      "name": "Alim, Md. Abdul"
+    },
+    {
+      "name": "Chowdhury, Md. Raeen Hassan"
+    },
+    {
+      "name": "Chagnes, Alexandre"
+    },
+    {
+      "name": "Stankovic, Nicolas"
+    },
+    {
+      "name": "Nominé, Alexandre"
+    }
+  ],
+  "keywords": [
+    "lithium-ion batteries",
+    "second-life batteries",
+    "repurposing",
+    "recycling",
+    "life cycle",
+    "MCDA"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://secondsense.vercel.app/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}

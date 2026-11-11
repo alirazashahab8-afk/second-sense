@@ -1,0 +1,10 @@
+case,option,lifetime_criterion_kWh_per_kWh,cost_USD_per_kWh,carbon_kgCO2eq_per_kWh,normalized_lifetime,normalized_cost,normalized_carbon,final_score,rank
+Balanced (3:3:3),Repurposed,608,48.00,5.00,0.179,0.477,0.813,0.607,1
+Balanced (3:3:3),Recycled-content,1390,80.64,36.67,0.410,0.284,0.111,0.211,2
+Balanced (3:3:3),New (virgin),1390,96.00,53.40,0.410,0.239,0.076,0.182,3
+Cost-focused (1:5:1),Repurposed,608,48.00,5.00,0.179,0.477,0.813,0.603,1
+Cost-focused (1:5:1),Recycled-content,1390,80.64,36.67,0.410,0.284,0.111,0.216,2
+Cost-focused (1:5:1),New (virgin),1390,96.00,53.40,0.410,0.239,0.076,0.181,3
+"Low-SOH (61%, balanced)",Repurposed,25.0,48.00,5.00,0.009,0.477,0.813,0.453,1
+"Low-SOH (61%, balanced)",Recycled-content,1390.0,80.64,36.67,0.496,0.284,0.111,0.286,2
+"Low-SOH (61%, balanced)",New (virgin),1390.0,96.00,53.40,0.496,0.239,0.076,0.262,3

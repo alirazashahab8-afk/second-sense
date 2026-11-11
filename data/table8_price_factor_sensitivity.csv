@@ -1,0 +1,5 @@
+price_factor_F,repurposed_cost_USD_per_kWh,new_virgin_score,recycled_content_score,repurposed_score
+0.3,28.80,0.175,0.202,0.623
+0.45,43.20,0.181,0.210,0.609
+0.6,57.60,0.183,0.213,0.603
+0.75,72.00,0.185,0.216,0.599
